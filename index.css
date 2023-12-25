@@ -43,7 +43,7 @@ header {
 
 header .bg-image {
     position: absolute;
-    background-image: url(/Responsive_Portfolio/images/photographer_takingphoto.jpg);
+    background-image: url(/images/photographer_takingphoto.jpg);
     background-size: cover;
     background-position: center;
     height: 46rem;
